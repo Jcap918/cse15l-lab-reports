@@ -21,7 +21,7 @@
   * `pwd` - This commands prints out the path to your working directory
   * `cd [Directory_Name]` - Replace Directory_Name with the directory of your choice, and it will change your working directory to said directory.
   * `cd ~` - This command sets your working directory to the home directory
-  * `ls' - This command lists out all the contents of the working directory, except for hidden files and content.
-  * `ls -a' - This command lists out all the contents of the working directory, including hidden files and content.
+  * `ls` - This command lists out all the contents of the working directory, except for hidden files and content.
+  * `ls -a` - This command lists out all the contents of the working directory, including hidden files and content.
   * `ls -lat` - This command lists out all the contents kf the working directory, including hidden files and content, sorted by time.
   * `top` - This command produces a list of current running processes.
