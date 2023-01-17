@@ -17,7 +17,7 @@
   * Your screen should then look like this:
   * <img width="1440" alt="Screen Shot 2023-01-14 at 3 21 09 PM" src="https://user-images.githubusercontent.com/45737807/212501302-d11025c3-67a1-4b3f-a33c-82c7cbe2fd02.png">
 3.) Commands
-  * The following are some of the commands you can try out in the terminal.
+  * The following are some of the commands you can try out in the terminal:
   * `pwd` - This commands prints out the path to your working directory
   * `cd [Directory_Name]` - Replace Directory_Name with the directory of your choice, and it will change your working directory to said directory.
   * `cd ~` - This command sets your working directory to the home directory
