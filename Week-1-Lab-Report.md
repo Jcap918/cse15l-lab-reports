@@ -25,3 +25,4 @@
   * `ls -a` - This command lists out all the contents of the working directory, including hidden files and content.
   * `ls -lat` - This command lists out all the contents kf the working directory, including hidden files and content, sorted by time.
   * `top` - This command produces a list of current running processes.
+  * <img width="1440" alt="Screen Shot 2023-01-16 at 9 33 07 PM" src="https://user-images.githubusercontent.com/45737807/212817867-92c4de26-0b32-476a-8b0e-392933a3b700.png">
