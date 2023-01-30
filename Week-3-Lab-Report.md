@@ -1,3 +1,30 @@
+**Part 1**
+The code:
+<img width="995" alt="Screenshot 2023-01-30 at 1 02 12 PM" src="https://user-images.githubusercontent.com/45737807/215595088-80ef3cea-5952-46d4-9b3e-23a97d4f6018.png">
+
+Succesful use of /add-message:
+<img width="1340" alt="Screenshot 2023-01-30 at 1 09 01 PM" src="https://user-images.githubusercontent.com/45737807/215595688-6022c8cd-c5d5-4204-892b-75c314421db1.png">
+
+Explanation:
+The methods getPath and equals are called to compare the path to "/" and "/add-message". It's a match with "/add-message", so we then proceed and call getQuery and split to split the query, "s=Helllloooo", based on the delimeter =, putting the first half into index 0 of parameter and the second half into index 1. Then it calls equals to see if index 0 is equal to s. It is, so we proceed. It then calls equals again to check if the String we are adding everything to is empty. It is empty, so now the string we return is equal to "Helllloooo". Then we skip all the else if statements and return the returnString.<br/>
+The values changed are returnString, changing from "" to "Helllloooo". It also fills the indexs of parameters with "s" in the first, and "Helllloooo" in the second.
+
+Another Succesful use of /add-message
+<img width="1340" alt="Screenshot 2023-01-30 at 1 12 24 PM" src="https://user-images.githubusercontent.com/45737807/215597049-3ebf6f7a-29a3-49e6-b5d5-619247ca5f2e.png">
+
+Explanation:
+The methods getPath and equals are called to compare the path to "/" and "/add-message". It's a match with "/add-message", so we then proceed and call getQuery and split to split the query, "s=this-is-working-properly", based on the delimeter =, putting the first half into index 0 of parameter and the second half into index 1. Then it calls equals to see if index 0 is equal to s. It is, so we proceed. It then calls equals again to check if the String we are adding everything to is empty. It is not empty, so it skips the first if, and goes to the next one. It adds "\n" and "this-is-working-properly" to the end of the running string, so  now the string we return is equal to "Helllloooo\nthis-is-working-properly". Then we skip all the else if statements and return the returnString.<br/>
+The values changed are returnString, changing from "Helllloooo" to "Helllloooo\nthis-is-working-properly". It also fills the indexs of parameters with "s" in the first, and "this-is-working-properly" in the second.
+
+Unseccesful use of /add-message
+<img width="1340" alt="Screenshot 2023-01-30 at 1 21 22 PM" src="https://user-images.githubusercontent.com/45737807/215597832-e35b92a1-bdc7-4a7b-9fb1-14cccc289e8d.png">
+
+Explanation:
+The methods getPath and equals are called to compare the path to "/" and "/add-message". It's a match with "/add-message", so we then proceed and call getQuery and split to split the query, "ADWD=this-is-working-properly", based on the delimeter =, putting the first half into index 0 of parameter and the second half into index 1. Then it calls equals to see if index 0 is equal to s. It isn't, so we skip the if statement and go the the else part. It then returns "Not Valid"
+Only the values of paramters is changed, index 0 is "ADWD" and index 0 is "this-is-working-properly"
+
+
+
 **Part 2** <br/>
 The faulty code:<br/>
 
