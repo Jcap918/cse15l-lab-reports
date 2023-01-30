@@ -38,6 +38,9 @@ Fixed Code:<br/>
      return newArray;
     }
     
+<img width="856" alt="Screenshot 2023-01-30 at 12 27 32 PM" src="https://user-images.githubusercontent.com/45737807/215587778-076cd369-ed85-4e34-80f7-bbb4513d6de7.png">
+
+    
 Explanation:
 The bug before was that it returned the old array instead of returning the new array it created. It also filled up the old array based on the 
 values of the new array, when it should have been the other way around. A final error in the code was that it filled up arr with the fixed inde 'arr.length - 1' The new code fixes these errors by returning newArray instead of the input array arr. I also swapped arr and new Array in the loop so that newArray would be fixed based on the values of arr instead of it being the other way around. I also fixed the indexing, subtracting the variable 'i' from it so that the index would change depending on which execution the loop was on.
