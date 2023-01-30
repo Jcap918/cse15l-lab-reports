@@ -1,9 +1,13 @@
 1.) **Download VS Code** 
   * Follow this [Link](https://code.visualstudio.com/Download)
   * Download version depending on what system you are on
+  * An agreement textbox will apear. Click on "I accept this agreement" and click "next"
+  * Select which folder you want to save the file to. You can browse to chose, or select the default path
+  * You will then be prompted with additional tasks that can be performed, such as creating a desktop icon. Most aren't important, but to make things easier checkmark the desktop icon. Now you may select install.
+  * Click finish
   * Open up VS Code. Your screen should look like this:
    <img width="1440" alt="Screen Shot 2023-01-14 at 2 53 20 PM" src="https://user-images.githubusercontent.com/45737807/212500674-dbc92b9f-f436-4858-a0aa-262354526288.png">
-   Notes: I didn't do this step exactly because I already had VS Code installed from last quarter
+   Notes: I didn't do this step exactly because I already had VS Code installed from last quarter, so I can't provide images of every single step.
    
    
 2.) **Remote Connecting**
