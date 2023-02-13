@@ -36,7 +36,7 @@ Example
   
   <img width="986" alt="Screenshot 2023-02-13 at 2 28 53 PM" src="https://user-images.githubusercontent.com/45737807/218589037-e3ee4f12-b12c-447f-929f-e1420aec0993.png">
   
- ## **-atime/-amin**
+## **-atime/-amin**
   
   `$ find -atime n`
   
