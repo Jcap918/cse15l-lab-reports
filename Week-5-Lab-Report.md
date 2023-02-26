@@ -24,7 +24,7 @@
 
 > This looks for files of a certain size, with a + indicating greather than, a - indicating less than, K being shorthand for KB, M being shorthand for MB, and G being shorthand for GB. 
 
-> Source: https://linuxhandbook.com/find-command-examples/
+> Source: [Link display text](https://linuxhandbook.com/find-command-examples/)
 
 Example
 
@@ -44,7 +44,7 @@ Example
   
   > This looks for files that were accessed according to n, which corresponds to days when using -atime, and minutes when using -amin. + indicates greater than, - indicates less than
   
- > Source: https://linuxhandbook.com/find-command-examples/
+ > Source: [Link display text](https://linuxhandbook.com/find-command-examples/)
   
   Example
   
@@ -62,7 +62,7 @@ Example
 
 > This looks for files of type c, where c can be replaced by f to look for a regular file, or replaced by d to look for a directory. 
 
-> Source: https://opensource.com/article/18/4/how-use-find-linux
+> Source: [Link display text](https://opensource.com/article/18/4/how-use-find-linux)
 
 Example 
 
