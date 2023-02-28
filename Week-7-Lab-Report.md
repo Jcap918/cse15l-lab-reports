@@ -50,5 +50,10 @@ order to compile all the files. Afterwards, I pressed ctrl-r once again to enter
 up this time
 
 # **Step 9**
+<img width="1172" alt="Screenshot 2023-02-27 at 7 38 34 PM" src="https://user-images.githubusercontent.com/45737807/221749413-bea0e8c6-8e90-4c4f-9878-c450c49625e8.png">
 
-**Keys Pressed:**  `git add L<tab>j<tab><enter>`, `git commit -m "Fixed"<enter>`, 
+
+
+**Keys Pressed:**  `git add L<tab>j<tab><enter>`, `git commit -m "fix"<enter>`, `git push origin main <enter>`
+
+Once I had made the changes I wanted to make, I typed in git add to add the file I wanted to add to the commit list. I typed in L, then pressed tab to let it autofill, but it only filled up "ListExamples." because there was a .class file and a .java file. I pressed j then tab to autofill the .java one, and pressed enter to execute the command. Once I had added the file to the commit list, I commited it by typying git commit -m, and I put the message I wanted to show up on github inside the quotation marks, which was "fix", then pressed enter to execute the commit. Then finally, I pushed the changes onto github by typying git push origin main, then pressed enter to execture the command. 
