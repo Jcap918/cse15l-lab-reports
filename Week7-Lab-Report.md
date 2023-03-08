@@ -3,7 +3,7 @@
 
 **Keys Pressed:** `<ctrl>r s<enter>`
   
- I used ctrl-r to enter reverse-i-search mode, then I clicked s to search for ssh cs15lwi23anh@ieng6.ucsd.edu. It showed up after only needing to press s, so once it showed up, I click enter to execute the command. Then I was automatically logged into my account.
+I used ctrl-r to enter reverse-i-search mode, then I clicked s to search for ssh cs15lwi23anh@ieng6.ucsd.edu. It showed up after only needing to press s, so once it showed up, I click enter to execute the command. Then I was automatically logged into my account.
   
 # **Step 5**
   <img width="857" alt="Screenshot 2023-02-26 at 2 44 38 PM" src="https://user-images.githubusercontent.com/45737807/221442004-1e8b8337-9dbf-4ec6-8bb5-b91d69b24ca7.png">
