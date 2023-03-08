@@ -14,7 +14,7 @@
 I Used ctrl-r once again to enter reveerse-i-search mode, then I typed `git cl` to search for git clone, and the first git clone result to pop up alread had 
 my forked lab7 git directory, so I pressed enter to clone it. 
 
-# **Step 6
+# **Step 6**
 <img width="857" alt="Screenshot 2023-02-26 at 2 50 49 PM" src="https://user-images.githubusercontent.com/45737807/221442281-d6b55452-762f-439c-beca-732543773712.png">
 
 **Keys Pressed:** `cd l<tab><enter>`, `<ctrl>r javac<enter>`, `<ctrl>r java<space><enter>`
