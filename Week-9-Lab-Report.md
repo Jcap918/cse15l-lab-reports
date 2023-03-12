@@ -1,4 +1,4 @@
-**Done Quick Lab**
+## **Done Quick Lab**
 
 I could have completed the tasks in Lab Report 4 much quicker if we were allowed access to Bash Scripts. In order to do this,
 I would have created two Bash scripts. The first one I named "Quick.sh"
@@ -34,7 +34,7 @@ I then pressed ctrl-o to save the file, and pressed enter to replace the origina
 8.) git push origin main pushes the commit onto the github directroy. 
 
 
-**Putting it together**
+## **Putting it together**
 
 <img width="1035" alt="Screenshot 2023-03-12 at 2 17 46 PM" src="https://user-images.githubusercontent.com/45737807/224574279-3ee0864f-f11f-461d-82d2-f45f5d1aaaad.png">
 
