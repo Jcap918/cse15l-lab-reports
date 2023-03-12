@@ -21,7 +21,7 @@ the right one, so I pressed ctrl-w enter 6 times to search for the correct one. 
 Once I found it, I pressed the right arrow 6 times to go to the end of the word. Then, I deleted the last character of the word, the "1", and replaced it with a 2. 
 I then pressed ctrl-o to save the file, and pressed enter to replace the original file with the new fixed file. Then I pressed ctrl-x to exit.
 
-) Once the edit has been made, I run the second bash script, "done.sh".
+Once the edit has been made, I run the second bash script, "done.sh".
 
 <img width="1035" alt="Screenshot 2023-03-12 at 2 10 20 PM" src="https://user-images.githubusercontent.com/45737807/224573891-f8ca465a-7bba-47c6-9277-2a05ab32a40f.png">
 
